@@ -28,3 +28,9 @@ h.addEdge('user','B','D', 'doot')
 ```
 
 The callback will be triggered at the last, offending action.
+
+Acknowledgments
+---------------
+
+This work was supported by the National Science Foundation under Award No. 1352207. Any Opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect those of the National Science Foundation."
+
